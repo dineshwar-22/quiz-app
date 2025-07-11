@@ -2,10 +2,10 @@
 A responsive and interactive multichoice quiz application using **HTML**,**CSS**, and **Javascript**.
 
 ## Features
- Clean and reaponsive UI
- 5-minutes countdown timer with auto-submit
- Correct or wrong answers feedback
- Restart functionality
+<br> Clean and reaponsive UI</br>
+<br>5-minutes countdown timer with auto-submit</br>
+<br>Correct or wrong answers feedback</br>
+<br>Restart functionality</br>
 
  ## Demo
  ![alt text](screenshots/Screenshot1.png)
@@ -16,4 +16,3 @@ A responsive and interactive multichoice quiz application using **HTML**,**CSS**
  - HTML
  - CSS3
  - Javascript
- 
